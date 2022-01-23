@@ -16,7 +16,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - CSS3
 - Javascript
 - Chrome Dev Tools
-- Open Weather API
 - Node.js
 - NPM
 - Express.js
@@ -29,7 +28,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 | Project                            |  Note-Taker URL                                       |
 |------------------------------------|-------------------------------------------------------|
-|  Note-Taker                        | <>  |
+|  Note-Taker                        | <https://notetakermbongeni.herokuapp.com/>            |
 
 
 ## Contributers
