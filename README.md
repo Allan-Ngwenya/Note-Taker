@@ -28,7 +28,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 | Project                            |  Note-Taker URL                                       |
 |------------------------------------|-------------------------------------------------------|
-|  Note-Taker                        | <https://notetakermbongeni.herokuapp.com/>            |
+|  Note-Taker                        | <https://notetaker11mbon.herokuapp.com/>              |
 
 
 ## Contributers
